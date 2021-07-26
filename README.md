@@ -1,4 +1,4 @@
-# Handwritten Digit Recognition from-scratch
+# Handwritten Digit Recognition from scratch
 ## Computational Intelligence course project
 
 In this project a simple `neural network` is implemented in 2 different ways (`MNIST` Dataset is used for training and testing):
